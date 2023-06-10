@@ -1,3 +1,4 @@
-# APILivraria
+# API Livraria
 
-<a href="https://github.com/Gabriel-Moura1033/APILivraria.git"> Vizualize minha página </a>
+
+Este projeto é uma API em NODEJs para uma livraria fictícia. 
