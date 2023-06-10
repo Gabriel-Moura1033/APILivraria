@@ -1,4 +1,3 @@
-# API Livraria
+# Bem vindo a API da Livraria.
 
-
-Este projeto é uma API em NODEJs para uma livraria fictícia. 
+Em Desenvolvimento
