@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-mongoose.connect("Alimentar com URI de conexão do Atlas pro MongoDB")
+mongoose.connect("")
 
 let db = mongoose.connection;
 
